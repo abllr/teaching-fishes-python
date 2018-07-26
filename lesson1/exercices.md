@@ -1,5 +1,9 @@
 ### Lesson 1 : Exercices
 
+**N.B** : 
+- Using comments , write your thought process for each solution
+- Don't cheat (copy paste code) I'll smell it if you do it 
+
 
 #### P.1
 - Create a Github repository called learn-to-snake
